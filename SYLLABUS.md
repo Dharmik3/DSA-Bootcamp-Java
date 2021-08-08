@@ -18,8 +18,17 @@
     - Setup Installation
     - Input and Output in Java
     - Conditionals & Loops in Java
+        - if-else
+        - loops
+        - Switch statements
     - Data-types
     - Coding best practices
+- Functions
+    - Introduction
+    - Scoping in Java
+    - Shadowing
+    - Variable Length Arguments
+    - Overloading
 - Arrays
     - Introduction
     - Memory management
@@ -65,13 +74,6 @@
         - Wilson's Theorem
         - Lucas Theorem
         - Chinese Remainder Theorem
-- Functions
-    - Introduction
-    - Solving the above math problems in code
-    - Scoping in Java
-    - Shadowing
-    - Variable Length Arguments
-    - (more content in OOP such as overloading etc)
 - Recursion
     - Introduction
     - Why recursion?
@@ -119,7 +121,11 @@
     - Singleton Class
     - final, finalize, finally
     - Object Class
+    - Generics
     - Exception Handling
+    - Collections Framework
+    - Lambda Expression
+    - Enums
     - Fast IO
 - Stacks & Queues
     - Introduction
